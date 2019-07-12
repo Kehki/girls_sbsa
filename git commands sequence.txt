@@ -1,0 +1,13 @@
+1. git init
+2. git status
+3. git add .
+4. git commit -m "first commit"
+git remote add origin + copy address
+git config --global user.email "kyasmins@gmail.com"
+git config --global user.name" Kehki"
+5. git push -u origin master
+
+
+pushing from a to b repository will update the repository
+
+git clone ... copy address 
